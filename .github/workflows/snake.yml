@@ -38,6 +38,7 @@ jobs:
         with:
           target_branch: main
           build_dir: dist/svg
+          absolute_build_dir: true
           keep_history: true
           commit_message: 📝 update snake 📝
         env:
