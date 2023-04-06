@@ -1,4 +1,4 @@
-name: generate snake game
+name: generate snake
 
 on:
   # run automatically every 24 hours
@@ -8,11 +8,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
     - main
-    - release/*
     
   
 
@@ -23,22 +22,24 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate github-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            svg/github-snake.svg
-            svg/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the main branch
+      - name: push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
-          build_dir: svg
-          absolute_build_dir: true
+          build_dir: dist
           keep_history: true
           commit_message: 📝 update snake 📝
         env:
