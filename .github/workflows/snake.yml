@@ -28,8 +28,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/svg/github-contribution-grid-snake.svg
-            dist/svg/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/svg/github-snake.svg
+            dist/svg/github-snake-dark.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -37,7 +37,11 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
+          absolute_build_dir: true
           build_dir: dist/svg
           keep_history: true
+          committer: ${{ github.repository_owner }}
+          author: ${{ github.repository_owner }}
+          commit_message: update snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
