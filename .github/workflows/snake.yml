@@ -37,7 +37,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
-          absolute_build_dir: true
           build_dir: dist/svg
           keep_history: true
           commit_message: 📝 update snake 📝
