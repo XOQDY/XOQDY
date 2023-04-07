@@ -1,8 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div>
+  <img alt="Night Coding" src="https://gpvc.arturio.dev/XOQDY" align="right"/>
   <h3> Hi there 👋 </h3>
-  </div>
-  <img src="https://gpvc.arturio.dev/XOQDY" alt="Profile count"/>
 </div>
 
 ### 💻 &nbsp;GitHub Stats
