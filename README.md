@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://gpvc.arturio.dev/XOQDY" alt="Profile count" /> </p>
+
 ### Hi there 👋
 
 ### 💻 &nbsp;GitHub Stats
