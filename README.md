@@ -1,5 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><h3> Hi there 👋 </h3></div>
+  <div>
+  <h3> Hi there 👋 </h3>
+  </div>
   <img src="https://gpvc.arturio.dev/XOQDY" alt="Profile count"/>
 </div>
 
