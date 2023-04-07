@@ -1,6 +1,6 @@
 <div>
   <img alt="Night Coding" src="https://gpvc.arturio.dev/XOQDY" align="right"/>
-  <h3> Hi there 👋 </h3>
+  <h3> Hi there &nbsp<img src = "https://raw.githubusercontent.com/XOQDY/XOQDY/main/assets/waving-hi.gif" width = 20px> </h3>
 </div>
 
 ### 💻 &nbsp;GitHub Stats
