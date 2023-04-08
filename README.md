@@ -3,6 +3,8 @@
   <h3> Hi there &nbsp<img src = "https://raw.githubusercontent.com/XOQDY/XOQDY/main/assets/waving-hi.gif" width = 20px> </h3>
 </div>
 
+<img alt="Rick and Morty Gopher" src="https://raw.githubusercontent.com/XOQDY/XOQDY/main/assets/RickAndMorty.png" align="right" width=250px/>
+
 ### 💻 &nbsp;GitHub Stats
 
 <p align="center">
