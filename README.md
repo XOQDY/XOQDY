@@ -7,24 +7,24 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-![C](https://img.shields.io/badge/-C-161B22?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-161B22?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-161B22?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-161B22?style=for-the-badge&logo=HTML5)&nbsp;
-![Python](https://img.shields.io/badge/-Python-161B22?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=for-the-badge&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-24292F?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-24292F?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-24292F?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-24292F?style=for-the-badge&logo=HTML5)&nbsp;
+![Python](https://img.shields.io/badge/-Python-24292F?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-24292F?style=for-the-badge&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-24292F?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 
-![Django](https://img.shields.io/badge/-Django-161B22?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-161B22?style=for-the-badge&logo=fastapi)&nbsp;
-![Git](https://img.shields.io/badge/-Git-161B22?style=for-the-badge&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-161B22?style=for-the-badge&logo=markdown)&nbsp;
+![Django](https://img.shields.io/badge/-Django-24292F?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-24292F?style=for-the-badge&logo=fastapi)&nbsp;
+![Git](https://img.shields.io/badge/-Git-24292F?style=for-the-badge&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-24292F?style=for-the-badge&logo=markdown)&nbsp;
 
-![Docker](https://img.shields.io/badge/-Docker-161B22?style=for-the-badge&logo=docker)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-161B22?style=for-the-badge&logo=postman)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-161B22?style=for-the-badge&logo=mongodb)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-24292F?style=for-the-badge&logo=docker)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-24292F?style=for-the-badge&logo=postman)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-24292F?style=for-the-badge&logo=mongodb)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-24292F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 💻 &nbsp; GitHub Stats
 
