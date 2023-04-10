@@ -26,7 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 💻 &nbsp;GitHub Stats
+### 💻 &nbsp; GitHub Stats
 
 <p align="center">
   <picture>
