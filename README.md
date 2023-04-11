@@ -1,6 +1,6 @@
 <div>
   <img alt="Night Coding" src="https://gpvc.arturio.dev/XOQDY" align="right"/>
-  <h2> Hi there, I'm Maek aka XOQDY &nbsp<img src = "https://raw.githubusercontent.com/XOQDY/XOQDY/main/assets/waving-hi.gif" width = 20px> </h2>
+  <h2> Hi, I'm Maek aka XOQDY &nbsp<img src = "https://raw.githubusercontent.com/XOQDY/XOQDY/main/assets/waving-hi.gif" width = 20px> </h2>
 </div>
 
 <img alt="Rick and Morty Gopher" src="https://raw.githubusercontent.com/XOQDY/XOQDY/main/assets/RickAndMorty.png" align="right" width=360px/>
